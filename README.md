@@ -1,4 +1,5 @@
 # A03
+# Emmanuelle James Go
 
 Git is a software development tracker that tracks the changes made in projects using repositories that can be cloned (copied) to a client's computer and pushed (updated) to the online repository created on GitHub. In order to utilize Git, you must know how to do the following steps:
 
